@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.panel {
+  border: solid;
+  padding: 30px 30px 30px 30px;
+}
+.panel-heading {
+  background: aquamarine;
+  font-size: 25px;
+}
+.mt-50 {
+  margin-top: 50px;
+}
